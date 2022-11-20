@@ -1,5 +1,6 @@
 # ADM-HW3
 The third homework for Sapienza University - ADM course
+
 <img width="489" alt="places" src="https://user-images.githubusercontent.com/115465627/202923004-282f0c73-d15d-41bd-9e1e-f88421e63b06.png">
 
 Travelling is a pleasant activity which has increased since the end of the COVID-19 pandemic. Nowadays, people look for places to visit which are attractive, affordable, with a rich history and which have recommended activities. Using user-generated content, Atlas Obscura, an American online magazine and travel firm, catalogues unusual and obscure tourist locations. The website's articles span many subjects, including history, science, cuisine, and unique places.
