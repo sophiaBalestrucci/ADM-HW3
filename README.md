@@ -10,7 +10,7 @@ In this file we implemented the solutions to the exercises of the 3th Homework
 ### TheoreticalQuestion.ipynb
 Here there are the solutions to the Theorethical questions of the Homework
 ### commandline.sh
-We wrote a bash script to answer thi questions
+We wrote a bash script to answer this questions
 
     How many places can be found in each country?
     How many people, on average, have visited the places in each country?
